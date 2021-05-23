@@ -2,7 +2,7 @@
 
 [Deployed link](https://bz-storefront.netlify.app/)
 
-[PR link](https://github.com/bahazghayar/storefront/pull/1)
+[PR link](https://github.com/bahazghayar/storefront/pull/2)
 
 
 # UML

@@ -1,3 +1,13 @@
+# Links
+
+[Deployed link](https://bz-storefront.netlify.app/)
+
+[PR link](https://github.com/bahazghayar/storefront/pull/1)
+
+
+# UML
+![phase1](./public/storefrontphase1.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -2,11 +2,11 @@
 
 [Deployed link](https://bz-storefront.netlify.app/)
 
-[PR link](https://github.com/bahazghayar/storefront/pull/2)
+[PR link](https://github.com/bahazghayar/storefront/pull/3)
 
 
 # UML
-![phase1](./public/storefrontphase1.png)
+![phase2](./public/storefrontphase2.png)
 
 # Getting Started with Create React App
 
